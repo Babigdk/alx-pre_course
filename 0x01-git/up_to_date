@@ -1,0 +1,13 @@
+git add .
+git config --global user.name  "Babigdk"
+git config --global user.email "Babigdk@gmail.com"
+git commit -m 'My commit Message'
+git touch my fileName
+git mkdir myDirectoryName
+git rm myFileName
+git rmdir my DirectoryNAme
+git pull
+git push
+echo 'File Content' > myFileName
+cat FileName
+clear
